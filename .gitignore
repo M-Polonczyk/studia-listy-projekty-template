@@ -1,0 +1,37 @@
+# Cache files
+*.cache
+**/__pycache__/
+
+# idk what's that
+python_projects/share/
+
+# IDE
+.vscode/
+
+# Byte-compiled / optimized Python files
+*.pyc
+*.pyo
+*.pyd
+
+# Logs and databases
+*.log
+*.sqlite
+*.db
+
+# Environment variables
+.env
+
+# Compiled source for future development
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# docks, pdf etc.
+*.docx
+*.docm
+*.dotm
+*.doc
+*.pdf
