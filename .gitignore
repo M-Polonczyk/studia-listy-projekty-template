@@ -17,6 +17,7 @@ python_projects/share/
 *.log
 *.sqlite
 *.db
+*.bak
 
 # Environment variables
 .env
