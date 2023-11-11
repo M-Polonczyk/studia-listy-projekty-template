@@ -35,3 +35,32 @@ python_projects/share/
 *.dotm
 *.doc
 *.pdf
+
+# R
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+
+# MATLAB
+*.mat
+*.mex*
+*.p
+*.asv
+*.m~
+*.asv
+
+# Simulink
+*.mdl
+*.mexw*
+*.slx
+*.rtw
+*.rtp
+*.rsim
+*.rsm
+*.rwd
+*.r201*
+*_ert_rtw/
+*_ert_shrlib/
+**/slprj
+slprj/
