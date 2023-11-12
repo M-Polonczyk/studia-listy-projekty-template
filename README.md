@@ -77,7 +77,7 @@ Added just for example of the documentation.
    ```
    <p align="left"><a href="https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account#adding-a-new-ssh-key-to-your-account">Follow next steps</a></p>
    
-3. Clone the repo
+3. Clone the repo from your Branch (<li><a href="#contributing">how to create your Branch</a></li>)
    ```sh
    git clone https://github.com/M-Polonczyk/Studia-Listy-Projekty.git -b <Branch name>
    ```
