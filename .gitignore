@@ -8,6 +8,9 @@ python_projects/share/
 # IDE
 .vscode/
 
+# venv
+python_projects/Scripts
+
 # Byte-compiled / optimized Python files
 *.pyc
 *.pyo
