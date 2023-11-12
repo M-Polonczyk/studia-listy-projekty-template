@@ -8,7 +8,7 @@ python_projects/share/
 # IDE
 .vscode/
 
-# venv
+# venv, available in the main branch to copy activation scripts, however it isn't needed in your Branch
 python_projects/Scripts
 
 # Byte-compiled / optimized Python files
