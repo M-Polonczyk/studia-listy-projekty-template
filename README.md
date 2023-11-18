@@ -77,9 +77,9 @@ Added just for example of the documentation.
    ```
    <p align="left"><a href="https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account#adding-a-new-ssh-key-to-your-account">Follow next steps</a></p>
    
-3. Clone the repo from template Branch (<a href="#contributing">how to create your Branch</a>)
+3. Clone the repo from template Branch 
    ```sh
-   git clone git@github.com:M-Polonczyk/Studia-Listy-Projekty.git -b <Branch name>
+   git clone git@github.com:M-Polonczyk/Studia-Listy-Projekty.git -b template
    ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -93,7 +93,7 @@ Added just for example of the documentation.
 1. Create your Feature Branch (`git checkout -b <Branch name>`)
 2. Commit your Changes (`git commit -m 'Add sometinhg'`)
 3. Push to the Branch (`git push origin <Branch name>`)
-
+(<a href="#contributing">how to create your Branch</a>)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
