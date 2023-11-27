@@ -11,6 +11,10 @@ python_projects/share/
 # venv, available in the main branch to copy activation scripts, however it isn't needed in your Branch
 python_projects/Scripts
 
+# libraries can be stored in requirements.txt
+lib/site-packages
+**/lib/site-packages
+
 # Byte-compiled / optimized Python files
 *.pyc
 *.pyo
