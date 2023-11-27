@@ -12,8 +12,7 @@ python_projects/share/
 python_projects/Scripts
 
 # libraries can be stored in requirements.txt
-lib/site-packages
-**/lib/site-packages
+**/Lib/site-packages
 
 # Byte-compiled / optimized Python files
 *.pyc
