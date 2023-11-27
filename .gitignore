@@ -3,13 +3,13 @@
 **/__pycache__/
 
 # idk what's that
-python_projects/share/
+python_venv/share/
 
 # IDE
 .vscode/
 
 # venv, available in the main branch to copy activation scripts, however it isn't needed in your Branch
-python_projects/Scripts
+python_venv/Scripts
 
 # libraries can be stored in requirements.txt
 **/Lib/site-packages
