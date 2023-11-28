@@ -55,7 +55,7 @@ To get a local repo up and running follow these steps.
 ### Prerequisites
 
 Added just for example of the documentation.
-* pyhton
+* python
   ```shthem
   sudo apt install python3
   ```
