@@ -79,7 +79,7 @@ Added just for example of the documentation.
    
 3. Clone the repo from template Branch 
    ```sh
-   git clone git@github.com:M-Polonczyk/Studia-Listy-Projekty.git -b template
+   git clone git@github.com:M-Polonczyk/sstudia-listy-projekty-template.git
    ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
