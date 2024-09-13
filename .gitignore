@@ -9,10 +9,8 @@ python_venv/share/
 .vscode/
 
 # venv, available in the main branch to copy activation scripts, however it isn't needed in your Branch
-python_venv/Scripts
-
-# libraries can be stored in requirements.txt
-**/Lib/site-packages
+venv
+.venv
 
 # Byte-compiled / optimized Python files
 *.pyc
